@@ -10,7 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=React%20developer;Always%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a self-taught React developer (: 
+- 🏢 I'm a self-taught developer (: 
 - 👨‍💻 Bac +3 at polydesiplinary faculty of Safi Morocco in Computer Sciences.
 
 
