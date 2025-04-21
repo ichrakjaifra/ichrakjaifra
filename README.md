@@ -22,8 +22,7 @@
 
 ### 🔗 Connect with Me  
 <!-- Add your real LinkedIn or portfolio links below when available -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ichrak-jaifra)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ichrak-jaifra-72380331b/)  
 
 ---
 
