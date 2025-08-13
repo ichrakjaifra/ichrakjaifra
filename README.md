@@ -31,6 +31,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-eac4d5?style=flat&logo=css3&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-dcd6f7?style=flat&logo=react)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-ffd6e0?style=flat&logo=tailwindcss)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-ffaaa5?style=flat&logo=laravel&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-9ab3f5?style=flat&logo=php&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-fcefee?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-e0bbe4?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-ffe5ec?style=flat&logo=visual-studio-code&logoColor=007ACC)
